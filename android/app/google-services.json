@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712180466105",
+    "project_id": "fir-analytics-demo-c621f",
+    "storage_bucket": "fir-analytics-demo-c621f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712180466105:android:d18bfc430fafd88eddb668",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU4812NNi6Z5vAKyAfntGFzefgOVuVZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712180466105:android:c96f88e7e18af4fbddb668",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU4812NNi6Z5vAKyAfntGFzefgOVuVZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
